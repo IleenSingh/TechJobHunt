@@ -1,2 +1,11 @@
-# Tech-Job-Hunt
- Tech Job Hunt connects job seekers and employers using React and Spring Boot. It offers user management, profile updates, job postings, and real-time search with filters. Responsive across devices, it ensures smooth navigation and robust security for data protection, providing a seamless, secure job-hunting and recruitment experience.
+Tech Job Hunt Project
+
+The Tech Job Hunt project is designed as a modern job portal system that effectively bridges the gap between applicants and employers in the recruitment process. The platform provides a smooth, user-friendly interface and robust backend support to ensure efficiency, reliability, and seamless interaction between both types of users.
+
+On the employer’s side, the system allows recruiters to create and manage accounts with ease. Once registered, employers gain access to tools that enable them to post new job openings tailored to their requirements. They can also edit or delete existing job posts whenever there are changes in roles, responsibilities, or hiring needs. Furthermore, the system provides employers with the ability to view a detailed list of applicants for each job posting. This ensures transparency and helps streamline the shortlisting and hiring process by offering quick access to applicant details.
+
+For applicants, the platform provides equally comprehensive functionality. Job seekers can create personal profiles that showcase their skills, education, and professional background, enabling them to stand out to potential employers. Through their accounts, applicants can browse newly posted jobs across various domains and industries. The application process is simplified, allowing candidates to apply for jobs directly through the portal. Additionally, they can track and view the status of their applications, which keeps them informed about their progress in the hiring pipeline and reduces uncertainty in the job search journey.
+
+The system is designed to balance usability and efficiency. With an intuitive interface, applicants and employers can interact with the portal without technical barriers, while the backend processes ensure secure data handling, fast retrieval of information, and accurate updates. This combination makes the job application and recruitment workflow more organized and effective.
+
+In summary, the Tech Job Hunt project is a comprehensive solution that addresses the needs of both applicants and employers by integrating all essential recruitment functionalities into a single platform. It simplifies job applications, improves hiring efficiency, and fosters better communication between job seekers and recruiters, thereby enhancing the overall employment process.
